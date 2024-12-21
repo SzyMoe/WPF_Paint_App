@@ -1,0 +1,188 @@
+﻿<Window x:Class="Grafika_Komputerowa_Projekt.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Grafika_Komputerowa_Projekt"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="1000" Width="1600">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="9*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        
+        <Grid Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="9*"/>
+            </Grid.RowDefinitions>
+
+            <!-- TOP TOOLBAR -->
+            <Border
+                Grid.Row="0"
+                BorderBrush="LawnGreen"
+                BorderThickness="2"
+                Background="Black">
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+
+                    <ToolBar Background="Black" VerticalAlignment="Center">
+                        <Menu Background="Black">
+                            <Button 
+                                Content="Pen" 
+                                FontSize="30"
+                                Foreground="LawnGreen"
+                                Background="Black"
+                                BorderThickness="0"
+                                Click="onPenButtonPressed"
+                                VerticalAlignment="Center"/>
+
+                            <MenuItem 
+                                Header="Shapes" 
+                                FontSize="30"
+                                Foreground="LawnGreen"
+                                VerticalAlignment="Center">
+
+                                <MenuItem Header="Rectangle" Click="onRectangleButtonPressed"/>
+                                <MenuItem Header="Triangle" Click="onTriangleButtonPressed"/>
+                                <MenuItem Header="Circle" Click="onCircleButtonPressed"/>
+                                <MenuItem Header="Polygon" Click="onPolygonButtonPressed"/>
+                            </MenuItem>
+
+                            <MenuItem 
+                                Header="Line" 
+                                FontSize="30"
+                                Foreground="LawnGreen"
+                                VerticalAlignment="Center">
+
+                                <MenuItem Header="Add Line" Click="onAddLineButtonPressed"/>
+                                <MenuItem Header="Edit Line" Click="onEditLineButtonPressed"/>
+                            </MenuItem>
+
+                            <Button 
+                                Content="Path" 
+                                FontSize="30"
+                                Foreground="LawnGreen"
+                                Background="Black"
+                                BorderThickness="0"
+                                Click="onPathButtonPressed"
+                                VerticalAlignment="Center"/>
+
+                            <Button 
+                                Content="Color" 
+                                FontSize="30"
+                                Foreground="LawnGreen"
+                                Background="Black"
+                                BorderThickness="0"
+                                Click="onColorButtonPressed"
+                                VerticalAlignment="Center"/>
+
+                            <MenuItem 
+                                Header="Image" 
+                                FontSize="30"
+                                Foreground="LawnGreen"
+                                VerticalAlignment="Center">
+
+                                <MenuItem Header="Show Image" Click="onShowImageButtonPressed"/>
+                                <MenuItem Header="Show Image with filter 1" Click="onShowImageWithFilter1ButtonPressed"/>
+                                <MenuItem Header="Show Image with filter 2" Click="onShowImageWithFilter2ButtonPressed"/>
+                            </MenuItem>
+
+                            <MenuItem 
+                                Header="Thickness" 
+                                FontSize="30"
+                                Foreground="LawnGreen"
+                                VerticalAlignment="Center">
+
+                                <MenuItem Header="2" Click="onThickness2ButtonPressed"/>
+                                <MenuItem Header="4" Click="onThickness4ButtonPressed"/>
+                                <MenuItem Header="8" Click="onThickness8ButtonPressed"/>
+                                <MenuItem Header="16" Click="onThickness16ButtonPressed"/>
+                                <MenuItem Header="32" Click="onThickness32ButtonPressed"/>
+                            </MenuItem>
+
+                            <Button 
+                                Content="Undo" 
+                                FontSize="30"
+                                Foreground="LawnGreen"
+                                Background="Black"
+                                BorderThickness="0"
+                                Click="onUndoButtonPressed"
+                                VerticalAlignment="Center"/>
+                        </Menu>
+                    </ToolBar>
+
+                    <StackPanel Orientation="Horizontal" Grid.Column="1" HorizontalAlignment="Right" Margin="20,0,20,0">
+                        <TextBlock
+                            Text="Opacity"
+                            FontSize="30"
+                            Foreground="LawnGreen"
+                            VerticalAlignment="Center"
+                            Margin="0,0,20,0"/>
+                        <Slider 
+                            Name="opacitySlider"
+                            Minimum="0"
+                            Maximum="1"
+                            Width="200"
+                            Value="1"
+                            VerticalAlignment="Center"
+                            ValueChanged="onOpacitySliderChanged"/>
+                    </StackPanel>
+                </Grid>
+            </Border>
+
+            <!-- CANVAS -->
+            <Border
+                Grid.Row="1"
+                BorderBrush="Black"
+                BorderThickness="10">
+                <Border
+                    BorderBrush="LawnGreen"
+                    BorderThickness="5">
+                    
+                    <Canvas
+                        Name="paintSurface" 
+                        MouseDown="Canvas_MouseDown_1"
+                        MouseUp="Canvas_MouseUp_1"
+                        MouseMove="Canvas_MouseMove_1">
+
+                        <Canvas.Background>
+                            <SolidColorBrush Color="White" Opacity="0"/>
+                        </Canvas.Background>
+                    </Canvas>
+                    
+                </Border>
+            </Border>
+        </Grid>
+
+        <!-- RIGHT TOOLBAR -->
+        <Border
+            Grid.Column="1"
+            BorderBrush="LawnGreen"
+            BorderThickness="2"
+            Background="Black">
+
+            <StackPanel>
+                <Border
+                    BorderBrush="LawnGreen"
+                    BorderThickness="0,0,0,2">
+                        <Button 
+                            Content="Add Layer" 
+                            FontSize="30"
+                            Foreground="LawnGreen"
+                            Background="Black"
+                            Click="onAddLayerButtonPressed"/>
+                </Border>
+            <StackPanel Name="layersPanel"/>
+                
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

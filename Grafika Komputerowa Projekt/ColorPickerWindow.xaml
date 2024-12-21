@@ -1,0 +1,125 @@
+﻿<Window x:Class="Grafika_Komputerowa_Projekt.ColorPickerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Grafika_Komputerowa_Projekt"
+        mc:Ignorable="d"
+        Title="ColorPickerWindow" Height="380" Width="300">
+    <Grid Background="LawnGreen">
+        <StackPanel Background="Black" Margin="2">
+            <!-- R VAlUE -->
+            <TextBlock
+                Text="R"
+                HorizontalAlignment="Center"
+                Foreground="LawnGreen"
+                FontSize="15" 
+                FontWeight="Bold"/>
+            <TextBox
+                Name="R_value"
+                Text =""
+                Margin="8,0,8,0"
+                TextAlignment="Center"
+                Foreground="Black"
+                FontSize="15" 
+                FontWeight="Bold"/>
+            
+            <!-- G VAlUE TEXT BOX -->
+            <TextBlock
+                Text="G"
+                HorizontalAlignment="Center"
+                Foreground="LawnGreen"
+                FontSize="15" 
+                FontWeight="Bold"/>
+            <TextBox
+                Name="G_value"
+                Text =""
+                Margin="8,0,8,0"
+                TextAlignment="Center"
+                Foreground="Black"
+                FontSize="15" 
+                FontWeight="Bold"/>
+            
+            <!-- B VAlUE TEXT BOX -->
+            <TextBlock
+                Text="B"
+                HorizontalAlignment="Center"
+                Foreground="LawnGreen"
+                FontSize="15" 
+                FontWeight="Bold"/>
+            <TextBox
+                Name="B_value"
+                Text =""
+                Margin="8,0,8,5"
+                TextAlignment="Center"
+                Foreground="Black"
+                FontSize="15" 
+                FontWeight="Bold"/>
+            
+            <!-- COLOR PREVIEW -->
+            <TextBlock
+                Text="Color preview:"
+                HorizontalAlignment="Center"
+                Foreground="LawnGreen"
+                FontSize="15" 
+                FontWeight="Bold"/>
+            <Border
+                BorderBrush="LawnGreen"
+                BorderThickness="2"
+                Background="Black"
+                Margin="8,8,8,5">
+                <Border
+                    BorderBrush="Black"
+                    BorderThickness="2"
+                    Background="Black">
+                    
+                    <Rectangle
+                        Name="colorPreviewBox"
+                        Fill="White" 
+                        Height="50"/>
+                </Border>
+            </Border>
+
+            <!-- APPLY BUTTON -->
+            <Border
+                BorderBrush="LawnGreen"
+                BorderThickness="2"
+                Background="Black"
+                Margin="8,5,8,5">
+                    <Button 
+                    Content="Apply" 
+                    FontSize="15"
+                    Foreground="LawnGreen"
+                    Background="Black"
+                    BorderThickness="0"
+                    Margin="2"
+                    Click="onApplyColorButtonPressed"/>
+            </Border>
+
+            <!-- CONVERT TO HSV BUTTON -->
+            <Border
+                BorderBrush="LawnGreen"
+                BorderThickness="2"
+                Background="Black"
+                Margin="8,5,8,5">
+                <Button 
+                    Content="Convert to HSV" 
+                    FontSize="15"
+                    Foreground="LawnGreen"
+                    Background="Black"
+                    BorderThickness="0"
+                    Margin="2"
+                    Click="onConvertToHsvButtonPressed"/>
+            </Border>
+            <TextBlock
+                Margin="0,5,0,5"
+                Text="HSV: 0,0,0"
+                Name="hsvDisplay"
+                HorizontalAlignment="Center"
+                Foreground="LawnGreen"
+                FontSize="15" 
+                FontWeight="Bold"/>
+
+        </StackPanel>
+    </Grid>
+</Window>

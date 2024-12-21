@@ -1,0 +1,18 @@
+C:\Users\Szymon\Desktop\dev\C#\WPF\New folder\Grafika Komputerowa Projekt.pdb
+C:\Users\Szymon\Desktop\dev\C#\WPF\New folder\test.jpg
+C:\Users\Szymon\Desktop\dev\C#\WPF\New folder\D3DCompiler_47_cor3.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\New folder\PenImc_cor3.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\New folder\PresentationNative_cor3.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\New folder\vcruntime140_cor3.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\New folder\wpfgfx_cor3.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\New folder\cvextern.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\New folder\libusb-1.0.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\New folder\opencv_videoio_ffmpeg490.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\New folder\concrt140.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\New folder\msvcp140.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\New folder\msvcp140_1.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\New folder\msvcp140_2.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\New folder\msvcp140_atomic_wait.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\New folder\msvcp140_codecvt_ids.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\New folder\vcruntime140.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\New folder\Grafika Komputerowa Projekt.exe

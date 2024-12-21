@@ -1,0 +1,56 @@
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\obj\Debug\net8.0-windows\Grafika Komputerowa Projekt_MarkupCompile.cache
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\obj\Debug\net8.0-windows\Grafika Komputerowa Projekt_MarkupCompile.lref
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\Grafika Komputerowa Projekt.exe
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\Grafika Komputerowa Projekt.deps.json
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\Grafika Komputerowa Projekt.runtimeconfig.json
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\Grafika Komputerowa Projekt.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\Grafika Komputerowa Projekt.pdb
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\obj\Debug\net8.0-windows\Grafika Komputerowa Projekt.g.resources
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\obj\Debug\net8.0-windows\Grafika Komputerowa Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\obj\Debug\net8.0-windows\Grafika Komputerowa Projekt.AssemblyInfoInputs.cache
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\obj\Debug\net8.0-windows\Grafika Komputerowa Projekt.AssemblyInfo.cs
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\obj\Debug\net8.0-windows\Grafika Komputerowa Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\obj\Debug\net8.0-windows\Grafika Komputerowa Projekt.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\obj\Debug\net8.0-windows\refint\Grafika Komputerowa Projekt.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\obj\Debug\net8.0-windows\Grafika Komputerowa Projekt.pdb
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\obj\Debug\net8.0-windows\Grafika Komputerowa Projekt.genruntimeconfig.cache
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\obj\Debug\net8.0-windows\ref\Grafika Komputerowa Projekt.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\obj\Debug\net8.0-windows\ColorPickerWindow.g.cs
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\obj\Debug\net8.0-windows\ColorPickerWindow.baml
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\Emgu.CV.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\obj\Debug\net8.0-windows\Grafika Komputerowa Projekt.csproj.AssemblyReference.cache
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\obj\Debug\net8.0-windows\Grafika .9EF781B9.Up2Date
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\runtimes\win-x64\native\libusb-1.0.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg490_64.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\runtimes\win-x86\native\libusb-1.0.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg490.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\Szymon\Desktop\dev\C#\WPF\Grafika-Komputerowa-Projekt-master\Grafika Komputerowa Projekt\bin\Debug\net8.0-windows\test.jpg
