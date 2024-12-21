@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Szymon\\Desktop\\dev\\C#\\WPF\\Paint\\Grafika-Komputerowa-Projekt-master\\WPF_Paint_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B41DF3A2-F764-40A9-965C-0302EBF01114}|Grafika Komputerowa Projekt\\Grafika Komputerowa Projekt.csproj|c:\\users\\szymon\\desktop\\dev\\c#\\wpf\\paint\\grafika-komputerowa-projekt-master\\wpf_paint_app\\grafika komputerowa projekt\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B41DF3A2-F764-40A9-965C-0302EBF01114}|Grafika Komputerowa Projekt\\Grafika Komputerowa Projekt.csproj|solutionrelative:grafika komputerowa projekt\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\dev\\C#\\WPF\\Paint\\Grafika-Komputerowa-Projekt-master\\WPF_Paint_App\\Grafika Komputerowa Projekt\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Grafika Komputerowa Projekt\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\dev\\C#\\WPF\\Paint\\Grafika-Komputerowa-Projekt-master\\WPF_Paint_App\\Grafika Komputerowa Projekt\\MainWindow.xaml",
+              "RelativeToolTip": "Grafika Komputerowa Projekt\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-21T03:02:29.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

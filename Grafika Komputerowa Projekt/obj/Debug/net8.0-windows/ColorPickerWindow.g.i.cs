@@ -93,7 +93,7 @@ namespace Grafika_Komputerowa_Projekt {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Grafika Komputerowa Projekt;V1.0.0.0;component/colorpickerwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Grafika Komputerowa Projekt;component/colorpickerwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\ColorPickerWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
